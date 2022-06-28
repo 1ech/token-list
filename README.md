@@ -1,4 +1,4 @@
-# PancakeSwap Token Lists
+# 1ech Token Lists
 
 This repo contains main PancakeSwap token list and tools to validate it.
 
